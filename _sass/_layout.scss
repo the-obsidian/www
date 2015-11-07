@@ -44,6 +44,12 @@
         }
     }
 
+    .divider {
+        margin-right: 12px;
+        margin-left: -8px;
+        border-right: 1px solid $grey-color-light;
+    }
+
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -90,6 +96,13 @@
                 margin-right: 0;
             }
             margin-left: 20px;
+        }
+
+        .divider {
+          border-right: none;
+          border-bottom: 1px solid $grey-color-light;
+          margin: 12px 0 12px 0;
+          display: block;
         }
     }
 }

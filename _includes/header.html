@@ -14,11 +14,21 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="{{ '/about/' | prepend: site.baseurl }}">About</a>
+        <a class="page-link" href="{{ '/whitelist/' | prepend: site.baseurl }}">Whitelist</a>
+        <a class="page-link" href="{{ '/rules/' | prepend: site.baseurl }}">Rules</a>
+
+        <span class="divider"></span>
+
+        <a class="page-link" href="https://forum.obsidian.gg">Forum</a>
+        <a class="page-link" href="https://reddit.com/r/TheObsidian">Subreddit</a>
+        <a class="page-link" href="http://map.the-obsidian.com">Map</a>
+
+        <span class="divider"></span>
+
+        <a class="page-link" href="{{ '/donate/' | prepend: site.baseurl }}">Donate</a>
+        <a class="page-link" href="{{ '/help/' | prepend: site.baseurl }}">Help</a>
+        <a class="page-link" href="https://account.obsidian.gg">Account</a>
       </div>
     </nav>
 
