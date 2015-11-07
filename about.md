@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Staff Roles
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+You can always see who's who in game with `/players`.  Our staff is split into two roles:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Operator
+
+Operators primarily handle the "operations" of the server (planning, maintaining server software, etc.).  Operators also assist the guardians with maintaining the server community.
+
+### Guardian
+
+Guardians are responsible for making sure players feel welcome and have a fun experience on the server.  Guardians may act as arbitrators for any disputes between players.  
+
+Guardians have access to the server logs and can view any changes made to the server or any messages sent publicly or privately in chat.  Guardians can kick players if necessary, or permanently ban players in extreme cases.
+
+We carefully select our staff - we are first and foremost concerned with building a wonderful community and do not allow our staff to abuse their (limited) power.  If you have any questions or feedback, feel free to [get in touch](/contact-us/).
