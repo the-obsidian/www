@@ -3,7 +3,7 @@ email: staff@obsidian.gg
 description: > # this means to ignore newlines until "baseurl:"
   Minecraft Community for Serious Enthusiasts
 baseurl: ""
-url: "https://obsidian.gg"
+url: "http://obsidian.gg"
 discourse_url: http://forum.the-obsidian.com/
 
 github_username: the-obsidian
