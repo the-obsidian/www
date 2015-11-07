@@ -4,7 +4,7 @@ title: Rules
 permalink: /rules/
 ---
 
-Have any questions or comments about these guidelines?  Think something should be added, removed, or changed?  [Get in touch.](/contact-us/)
+Have any questions or comments about these guidelines?  Think something should be added, removed, or changed?  [Get in touch.](mailto:staff@obsidian.gg)
 
 ## tl;dr
 
