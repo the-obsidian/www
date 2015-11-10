@@ -15,6 +15,6 @@ env:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speedup for html-proofer
     - GH_USER=obsidian
     - GH_EMAIL=staff@obsidian.gg
-    - GH_REF=github.com/the-obsidian/www
+    - GH_REF=github.com/the-obsidian/www.git
     # GH_TOKEN=apikey
     - secure: "pt9QJYolaCoaxzx4gzbjKTGdWrxfebW+RFeYbAlarP3WULakeIVlIFxqiNOseK7+UjQimzNP7gqD+0JHmz/hrZsWN3zPU1iDu1eI/RYwPzrCGnauGM9U+1ruegrT4hwvNHkrdqMEYkpTgqQYkQGnAwpHgoOQbG0JzhV9jz2PXnkwu+s71fV/EXjQi/RP2iQtKpDdPb7z+LBzhe0MARdqfU23nMha+I2yi0yg8FT27nq7VprJekTANwoyaNjY9CPzcQQ0CQqYQGV3aT1aDrl8lZfh/BmpPa1YwtkLGIIv5wW11gN4zJ25dmW7z5XSfSCGk4qrHXh8BEz0RVnoGdwi4Eteho2zpijXqWPUSmdz88u/WM9RFZAluNzQdOXba+6F98uqC1Qr7Pw5LLr2KdtjUZ6KdSJdt+XjvptMf28V6OPFHJQHvCfZ5d5Sk4dYvAQanEqP5KlGTCWktv27172uR9V0TKCRbWcbL1PgmJAlJdY8nmlxMZbq7Z+Zr5IZSzZPelFf+g26PQJ/dYLL942xfPtnKdI+p2Qu2dfTtbpjDT06VzfHAg/EKPA82U9exxkyMMCaewFG82Kv8fSofC1Nd6HAntd1EY2aTSj3ThAc1wTDhHdWXnLMpRRsv5rl8kpsXI1M2+hxkT0VsZfguUVVwgfPgvN2BwwjwyMsIb+9eio="
