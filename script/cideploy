@@ -1,12 +1,9 @@
 #!/usr/bin/env bash
-set -e
 
-(
-  [[ "$TRAVIS_PULL_REQUEST" != "false" ]] &&
-  [[ "$TRAVIS_BRANCH" != "master" ]] &&
-  echo "Skipping deploy - this is not master" &&
+if [[ "$TRAVIS_PULL_REQUEST" != "false"  && "$TRAVIS_BRANCH" != "master" ]]; then
+  echo "Skipping deploy - this is not master"
   exit 0
-)
+fi
 
 cd _site
 
