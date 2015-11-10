@@ -10,3 +10,4 @@ github_username: the-obsidian
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]

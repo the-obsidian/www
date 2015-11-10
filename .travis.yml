@@ -1,6 +1,15 @@
 language: ruby
-cache: bundler
-sudo: false
 rvm:
 - 2.2
-script: jekyll build
+
+cache: bundler
+sudo: false
+
+script: ./script/cibuild
+
+after_success:
+  - ./script/cideploy
+
+env:
+  global:
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speedup for html-proofer
