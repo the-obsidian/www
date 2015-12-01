@@ -2,6 +2,7 @@
 layout: page
 title: Welcome
 permalink: /
+banner: /images/header.jpg
 ---
 
 ## Survival multiplayer for serious Minecraft enthusiasts.
