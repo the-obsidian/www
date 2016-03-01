@@ -17,10 +17,6 @@ play.the-obsidian.com
 
 [Apply to Join](/whitelist/)
 
-### TeamSpeak IP
-
-ts.the-obsidian.com
-
 ### Need Help?
 
 Feel free to get in touch anytime - we'd be glad to help!
