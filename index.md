@@ -13,7 +13,7 @@ Sound interesting?  We'd love to have you!
 
 ### Server IP
 
-play.the-obsidian.com
+p.obsidian.gg
 
 [Apply to Join](/whitelist/)
 

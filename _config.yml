@@ -1,10 +1,10 @@
 title: The Obsidian
 email: staff@obsidian.gg
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Minecraft Community for Serious Enthusiasts
 baseurl: ""
 url: "http://obsidian.gg"
-discourse_url: https://forum.the-obsidian.com/
+discourse_url: https://forum.obsidian.gg/
 
 github_username: the-obsidian
 

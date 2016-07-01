@@ -6,13 +6,11 @@ permalink: /help/
 
 ## Links
 
-**Server IP:** play.the-obsidian.com
+**Server IP:** p.obsidian.gg
 
-**TeamSpeak IP:** ts.the-obsidian.com
+**Map:** [map.obsidian.gg](http://map.obsidian.gg)
 
-**Map:** [map.the-obsidian.com](http://map.the-obsidian.com)
-
-**Forum:** [forum.the-obsidian.com](http://forum.the-obsidian.com)
+**Forum:** [forum.obsidian.gg](http://forum.obsidian.gg)
 
 ## Chest Protection
 
