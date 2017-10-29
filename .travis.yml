@@ -2,6 +2,11 @@ language: ruby
 rvm:
 - 2.4
 
+addons:
+  apt:
+    packages:
+      - libssl1.0.0
+
 cache: bundler
 sudo: false
 
